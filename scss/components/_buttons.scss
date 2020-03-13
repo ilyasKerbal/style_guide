@@ -22,3 +22,12 @@
 .warning {
   @include button($button-warning);
 }
+
+.btn {
+  @media (min-width: $main-breakpoint) {
+    padding: 10px 30px;
+    & + & {
+      margin-left: 10px;
+    }
+  }
+}

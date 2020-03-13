@@ -23,4 +23,12 @@
     color: $button-color;
     background-color: $primary-color;
   }
+  @media (min-width: $main-breakpoint) {
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    &-link {
+      flex-basis: 100px;
+    }
+  }
 }
