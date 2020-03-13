@@ -1,0 +1,24 @@
+/* ============================================= */
+/*              Buttons                          */
+/* ============================================= */
+
+
+.default {
+  @include button($button-default);
+}
+
+.error {
+  @include button($button-error);
+}
+
+.info {
+  @include button($button-info);
+}
+
+.success {
+  @include button($button-success);
+}
+
+.warning {
+  @include button($button-warning);
+}
