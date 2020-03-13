@@ -11,6 +11,9 @@
   Font Variables
 */
 /*
+  Media Queries
+*/
+/*
   Margins & Layout Variables
 */
 /*
@@ -620,7 +623,7 @@ a {
   flex-direction: column;
 }
 
-/* line 12, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_navigation.scss */
+/* line 11, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_navigation.scss */
 .nav-link {
   text-align: center;
   border-radius: 5px;
@@ -630,7 +633,7 @@ a {
   transition: background-color .2s ease-in-out, color .2s ease-in-out;
 }
 
-/* line 23, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_navigation.scss */
+/* line 22, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_navigation.scss */
 .nav-link:hover {
   color: #fff;
   background-color: #58e1c1;
