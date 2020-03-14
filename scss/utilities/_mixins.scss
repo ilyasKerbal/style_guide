@@ -1,4 +1,4 @@
-@mixin button($background: null, $hover-lighten: 0.15){
+@mixin button($background: null, $hover-lighten: 15%){
   margin-top: $button-margin-top;
   width: 100%;
   color: $button-color;

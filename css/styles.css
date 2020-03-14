@@ -477,7 +477,7 @@ a {
 
 /* line 12, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/utilities/_mixins.scss */
 .default:hover {
-  background-color: #52ddfc;
+  background-color: #9cecfd;
 }
 
 /* line 10, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_buttons.scss */
@@ -495,7 +495,7 @@ a {
 
 /* line 12, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/utilities/_mixins.scss */
 .error:hover {
-  background-color: #e4767b;
+  background-color: #f1b5b8;
 }
 
 /* line 14, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_buttons.scss */
@@ -513,7 +513,7 @@ a {
 
 /* line 12, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/utilities/_mixins.scss */
 .info:hover {
-  background-color: #927cc1;
+  background-color: #bdafd9;
 }
 
 /* line 18, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_buttons.scss */
@@ -531,7 +531,7 @@ a {
 
 /* line 12, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/utilities/_mixins.scss */
 .success:hover {
-  background-color: #64cc82;
+  background-color: #9ddfb0;
 }
 
 /* line 22, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/components/_buttons.scss */
@@ -549,7 +549,7 @@ a {
 
 /* line 12, ../../../../../Users/imac/Desktop/JSProjects/style_guide/scss/utilities/_mixins.scss */
 .warning:hover {
-  background-color: #fd7957;
+  background-color: #feb4a2;
 }
 
 @media (min-width: 768px) {
